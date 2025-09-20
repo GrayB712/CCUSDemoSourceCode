@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{4dafcff8-32e9-e216-7d5c-d00709b38d0a}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnity", "FMODUnity.csproj", "{70541d28-a69b-f0b2-ec73-2553eea0fe8e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityEditor", "FMODUnityEditor.csproj", "{119994e5-8338-0653-27b0-997a4812a5ae}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityResonanceEditor", "FMODUnityResonanceEditor.csproj", "{ea3af9bb-be05-9afa-0353-4df1fd16db8d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FMODUnityResonance", "FMODUnityResonance.csproj", "{6ad485c8-4c8a-a274-cac9-15021e81e8dd}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4dafcff8-32e9-e216-7d5c-d00709b38d0a}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4dafcff8-32e9-e216-7d5c-d00709b38d0a}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70541d28-a69b-f0b2-ec73-2553eea0fe8e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70541d28-a69b-f0b2-ec73-2553eea0fe8e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119994e5-8338-0653-27b0-997a4812a5ae}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119994e5-8338-0653-27b0-997a4812a5ae}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ea3af9bb-be05-9afa-0353-4df1fd16db8d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ea3af9bb-be05-9afa-0353-4df1fd16db8d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ad485c8-4c8a-a274-cac9-15021e81e8dd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ad485c8-4c8a-a274-cac9-15021e81e8dd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
